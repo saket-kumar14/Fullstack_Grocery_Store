@@ -63,13 +63,13 @@
   ```
 
 ## Screenshots
-- Please refer to the working demo-images from [**here**](demo-jpg).
+- Please refer to the working demo-images from [**here**](demo_img).
   
 User                  |  Admin
 :-------------------------:|:-------------------------:
-![](./demo-jpg/user_view.png)  |  ![](./demo-jpg/admin_manager_view.png)
-![](./demo-jpg/cart.png)  |  ![](./demo-jpg/products.png)
-![](./demo-jpg/orders.png)  |  ![](./demo-jpg/admin_dash.png)
-![](./demo-jpg/search.png)  |  
+![](./demo_iimg/user_view.png)  |  ![](./demo_img/admin_manager_view.png)
+![](./demo_img/cart.png)  |  ![](./demo_img/products.png)
+![](./demo_img/orders.png)  |  ![](./demo_img/admin_dash.png)
+![](./demo_img/search.png)  |  
 
 <br/>
