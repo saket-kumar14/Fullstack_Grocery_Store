@@ -67,9 +67,9 @@
   
 User                  |  Admin
 :-------------------------:|:-------------------------:
-![](./demo_img/user_view.png)  |  ![](./demo_imgd/admin_manager_view.png)
-![](./demo_imgd/cart.png)  |  ![](./demo_imgd/products.png)
-![](./demo_imgd/orders.png)  |  ![](./demo_imgd/admin_dash.png)
-![](./demo_imgd/search.png)  |  
+![](./demo_img/user_view.png)  |  ![](./demo_img/admin_manager_view.png)
+![](./demo_img/cart.png)  |  ![](./demo_img/products.png)
+![](./demo_img/orders.png)  |  ![](./demo_img/admin_dash.png)
+![](./demo_img/search.png)  |  
 
 <br/>
