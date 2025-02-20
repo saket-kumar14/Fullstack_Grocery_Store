@@ -73,6 +73,3 @@ User                  |  Admin
 ![](./demo-jpg/search.png)  |  
 
 <br/>
-Thanks,
-
-Anurag.
