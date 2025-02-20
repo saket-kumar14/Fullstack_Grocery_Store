@@ -12,7 +12,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://your-flask-app.onrender.com',
+        target: 'https://grocery-store-kwa8.onrender.com',
         changeOrigin: true,
         secure: false
       }
