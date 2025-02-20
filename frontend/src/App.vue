@@ -54,7 +54,7 @@ export default {
   methods: {
     logOut() {
       if(localStorage.accessToken){
-        axios.get("http://127.0.0.1:4000/logout",{
+        axios.get("https://grocery-store-kwa8.onrender.com/logout",{
           headers:{
             'Authorization':localStorage.accessToken
           }
